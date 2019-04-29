@@ -15,3 +15,12 @@ And some aliases for:
 - [yarn](https://yarnpkg.com/)
 - [Taskfile](https://medium.com/@adrian_cooney/introducing-the-taskfile-5ddfe7ed83bd)
 - among others
+
+
+
+## Licenses
+
+All files except `aliases.zsh` were originally written by the authors of the
+said software. They are distributed under the respective licenses of those projects.
+
+`aliases.zsh` is written by me (Darshak Parikh) and is released into the public domain.
