@@ -24,8 +24,13 @@ alias nog="npm outdated -g"
 
 alias nt="npm test"
 alias nit="npm it"
+
 alias ns="npm start"
 alias nb="npm run build"
+
+alias na="npm audit"
+alias naf="npm audit fix"
+
 alias nk="npm link"
 alias nf="rm -rf node_modules && npm install"
 
