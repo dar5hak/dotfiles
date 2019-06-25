@@ -52,9 +52,11 @@ alias hex="hexo generate && hexo serve"
 alias run-init="curl -so Taskfile https://raw.githubusercontent.com/adriancooney/Taskfile/master/Taskfile.template && chmod +x Taskfile"
 
 # Run your tasks like: run <task>
-alias run=./Taskfile
+alias run="./Taskfile"
 
 # misc
+alias vsc="vscodium"
+
 function clone() {
 	git clone https://github.com/dar5hak/$1.git && cd $1
 }
