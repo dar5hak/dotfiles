@@ -7,6 +7,7 @@ My configurations for the following software:
 - [Oh My Zsh](https://ohmyz.sh/)
 - [RetroArch](https://www.retroarch.com/)
 - [tmux](https://tmux.github.io/)
+- [Neovim](https://neovim.io/)
 
 And some aliases for:
 
