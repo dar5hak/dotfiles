@@ -54,6 +54,9 @@ alias run-init="curl -so Taskfile https://raw.githubusercontent.com/adriancooney
 # Run your tasks like: run <task>
 alias run="./Taskfile"
 
+# misc
+alias vsc="codium"
+
 function clone() {
 	git clone https://github.com/dar5hak/$1.git && cd $1
 }
