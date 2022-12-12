@@ -44,6 +44,12 @@ alias yr="yarn remove"
 alias yrd="yarn remove --dev"
 alias ygr="yarn global remove"
 
+# zellij
+alias zj="zellij"
+alias za="zellij attach"
+alias zs="zellij --layout compact --session"
+alias zls="zellij list-sessions"
+
 # hexo
 alias hex="hexo generate && hexo serve"
 
