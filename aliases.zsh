@@ -9,18 +9,12 @@ alias aptar="sudo apt autoremove"
 # zellij
 alias zj="zellij"
 alias za="zellij attach"
-alias zs="zellij --layout compact --session"
+alias zs="zellij --session"
 alias zls="zellij list-sessions"
 
-# Taskfile
-# Quick start with the default Taskfile template
-alias run-init="curl -so Taskfile https://raw.githubusercontent.com/adriancooney/Taskfile/master/Taskfile.template && chmod +x Taskfile"
-
-# Run your tasks like: run <task>
-alias run="./Taskfile"
-
 # misc
-alias vsc="codium"
+alias python="python3"
+alias pip="pip3"
 
 function clone() {
 	git clone https://github.com/dar5hak/$1.git && cd $1
