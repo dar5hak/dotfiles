@@ -3,5 +3,5 @@ cp aliases.zsh $HOME/.oh-my-zsh/custom
 
 cp -r helix $HOME
 
-mkdir $HOME/.config
+mkdir -p $HOME/.config
 cp -r zellij $HOME/.config
