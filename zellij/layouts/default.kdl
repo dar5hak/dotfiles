@@ -1,0 +1,21 @@
+layout {
+	pane {
+		name "code"
+		command "hx"
+		args "."
+		focus true
+	}
+	pane {
+		split_direction "vertical"
+		size "30%"
+		pane {
+			name "term"
+			size "70%"
+		}
+		pane {
+			name "server"
+			command "nr"
+			args "dev"
+		}
+	}
+}

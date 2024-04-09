@@ -1,0 +1,11 @@
+layout {
+	floating_panes {
+		pane command="hx" {
+			args "."
+			x "25%"
+			y "10%"
+			width "50%"
+			height "80%"
+		}
+	}
+}
