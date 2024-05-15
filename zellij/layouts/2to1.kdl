@@ -1,4 +1,8 @@
 layout {
-	pane
-	pane size="33%"
+	pane {
+		command "hx"
+		args "."
+		focus true
+	}
+	pane size="30%"
 }

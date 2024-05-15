@@ -14,7 +14,7 @@ layout {
 		}
 		pane {
 			name "server"
-			command "nr"
+			command "npm run start"
 			args "dev"
 		}
 	}
