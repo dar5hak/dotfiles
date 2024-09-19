@@ -1,4 +1,4 @@
-theme = "ayu_dark"
+theme = "catppuccin_mocha"
 
 [editor]
 line-number = "relative"
@@ -11,14 +11,8 @@ display-messages = true
 insert = "bar"
 select = "underline"
 
-[editor.file-picker]
-hidden = false
-
 [editor.soft-wrap]
 enable = true
-
-[editor.statusline]
-left = ["mode", "spinner", "version-control", "file-name", "file-modification-indicator"]
 
 [keys.normal]
 esc = ["collapse_selection", "keep_primary_selection"]
