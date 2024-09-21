@@ -15,7 +15,7 @@ And some aliases for:
 
 ## Licenses
 
-All files except `aliases.zsh` and `install.sh` were originally written by the authors of the
+All files except `aliases.zsh`, `init.zsh` and `install.sh` were originally written by the authors of the
 said software. They are distributed under the respective licenses of those projects.
 
-`aliases.zsh` is written by me (Darshak Parikh) and is released into the public domain.
+The rest are written by me (Darshak Parikh) and released into the public domain.
