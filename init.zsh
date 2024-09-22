@@ -1,4 +1,3 @@
-eval "$(zoxide init zsh)"
 export EDITOR="hx"
 
 git config --global user.name "Darshak Parikh"
