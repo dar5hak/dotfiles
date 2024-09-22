@@ -48,6 +48,7 @@ echo "============================\n"
 
 mkdir -p $HOME/.oh-my-zsh/custom
 cp aliases.zsh init.zsh $HOME/.oh-my-zsh/custom
+echo 'eval "$(zoxide init zsh)"' >> $HOME/.zshrc
 
 echo "DONE\n"
 
