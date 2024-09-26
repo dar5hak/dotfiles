@@ -1,7 +1,6 @@
 theme = "catppuccin_mocha"
 
 [editor]
-line-number = "relative"
 bufferline = "always"
 
 [editor.lsp]
