@@ -2,13 +2,7 @@ theme = "catppuccin_mocha"
 
 [editor]
 bufferline = "always"
-
-[editor.lsp]
-display-messages = true
-
-[editor.cursor-shape]
-insert = "bar"
-select = "underline"
-
-[editor.soft-wrap]
-enable = true
+lsp.display-messages = true
+cursor-shape.insert = "bar"
+cursor-shape.select = "underline"
+soft-wrap.enable = true
