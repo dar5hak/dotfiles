@@ -17,6 +17,7 @@ alias zide="zellij --layout=ide"
 alias python="python3"
 alias pip="pip3"
 alias lg="lazygit"
+alias emacs="emacsclient -c -a 'emacs'"
 
 function clone() {
 	git clone https://github.com/dar5hak/$1.git && cd $1 && git config user.email "darshak@proton.me"
